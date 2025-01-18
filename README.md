@@ -1,6 +1,6 @@
 # ChemE545 HW1
 ### Anika O'Brian
-This repository contains two Python utility functions for chemical engineering calculations and data extraction.
+This repository contains two Python utility functions for chemical engineering calculations and data extraction. As well as a jupyter notebook with all of homework 1
 ## Functions
 ### 1. extract_parameter
 This function extracts specific parameters from unit operations data. It takes a unit operation name, parameter name, and index as inputs and returns a formatted string containing the value.
